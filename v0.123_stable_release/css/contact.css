@@ -21,6 +21,7 @@ section div ul {
     font-family: 'Fira Code', monospace;
     color: white;
     text-decoration: none;
+    padding: 0;
 }
 
 section div ul a li:hover {
