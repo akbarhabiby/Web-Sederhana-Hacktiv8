@@ -1,0 +1,21 @@
+/* About Me Title */
+#aboutme {
+    padding: 20% 0px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50;
+    color: white;
+    font-family: 'Fira Code', monospace;
+    margin: 3vh;
+}
+
+/* About Me Paragraph */
+section div p {
+    color: #CFD9DC;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Fira Code', monospace;
+    margin-left: 30%;
+    margin-right: 30%;
+    /* border: dotted; */
+}

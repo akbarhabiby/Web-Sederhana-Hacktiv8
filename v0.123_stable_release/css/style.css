@@ -1,0 +1,86 @@
+/* Set Background Image */
+body {
+    background-image: url(../img/y-so-serious.png);
+}
+
+/* Set Header (for Navigation Bar + Logo) */
+header {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    position: fixed;
+    clear: both;
+    overflow: hidden;
+}
+
+/* AkbarHabiby */
+header p {
+    float: right;
+    padding-right: 30px;
+    margin: 30px;
+    font-family: 'Fira Code', monospace;
+}
+
+header p a {
+    color: #1EE9B6;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+/* For Navigation Bar */
+header nav {
+    float: left;
+}
+
+nav ul {
+    font-size: 20px;
+    padding: 3px 0px 0px 10px;
+    margin: 30px;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+nav ul a li {
+    display: inline-block;
+    color: #B3B3B3;
+    padding: 0px 0px 0px 30px;
+    font-family: 'Fira Code', monospace;
+}
+
+nav ul li:hover {
+    color: #96dfcd;
+}
+
+nav ul a .current {
+    color: #1EE9B6;
+}
+
+/* Footer */
+footer {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 70px;
+    padding-top: 10px;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    position: fixed;
+    text-align: center;
+}
+
+footer h5 {
+    font-family: 'Fira Code', monospace;
+}
+
+footer h5 a {
+    color: #1EE9B6;
+    text-decoration: none;
+}
+
+footer h5 a:hover {
+    color: #96dfcd;
+}

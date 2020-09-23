@@ -1,0 +1,53 @@
+/* Social Media Title */
+#socialMedia {
+    padding: 20% 0px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50;
+    color: white;
+    font-family: 'Fira Code', monospace;
+    margin: 3vh;
+}
+
+/* Social Media Menu */
+section div ul li {
+    padding: 15px;
+    display: inline-block;
+}
+
+section div ul {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+    color: white;
+    text-decoration: none;
+}
+
+section div ul a li:hover {
+    color: #1EE9B6;
+}
+
+/* Each Color for Social Media */
+section div ul #github {
+    color: #F05234;
+}
+
+section div ul #linkedin {
+    color: #0B77B5;
+}
+
+section div ul #facebook {
+    color: #19A5F5;
+}
+
+section div ul #instagram {
+    color: #E64E60;
+}
+
+section div ul #discord {
+    color: #6E85D3;
+}
+
+section div ul #email {
+    color: #1CBDF9;
+}

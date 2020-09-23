@@ -1,0 +1,27 @@
+/* Greetings */
+#hello {
+    padding: 20% 0px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50;
+    color: white;
+    font-family: 'Fira Code', monospace;
+    margin: 3vh;
+}
+
+/* Paragraph */
+section div p {
+    color: #CFD9DC;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Fira Code', monospace;
+}
+
+section div p a {
+    color: #1EE9B6;
+    text-decoration: none;
+}
+
+section div p a:hover {
+    color: #96dfcd;
+}
